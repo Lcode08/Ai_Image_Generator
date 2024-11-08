@@ -10,7 +10,7 @@ async function query(data) {
         const start = Date.now();  // Start the time measurement
         console.log("Starting backend request...");
 
-        const response = await fetch("http://localhost:5000/api/query", {
+        const response = await fetch("https://ai-image-generator-vkm5.onrender.com/api/query", {
             headers: {
                 "Content-Type": "application/json",
             },
