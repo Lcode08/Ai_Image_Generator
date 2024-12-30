@@ -1,4 +1,4 @@
-### Dreamify.AI | AI Image Generator
+# Dreamify.AI | AI Image Generator
 
 Dreamify.AI is an AI-powered platform for generating unique images from text prompts. This project leverages the power of advanced machine learning models to turn user input into custom visuals in real time, offering an interactive and engaging user experience.
 
@@ -38,8 +38,6 @@ Experience the application live at: [Dreamify.AI](https://art-vibes-ai.vercel.ap
 ### Prerequisites
 
 - Node.js and npm installed on your system.
-
----
 
 ### Installation
 
